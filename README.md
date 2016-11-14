@@ -1,0 +1,2 @@
+# VisualStudioAwsTestSolution
+VisualStudioAwsTestSolution
